@@ -1,6 +1,6 @@
 ## Introduction
 
-A play-clj game in which ... well, that part is up to you.
+A simple visualization of our solar system with accurate distances and timing, but not accurate sizes.
 
 ## Contents
 
